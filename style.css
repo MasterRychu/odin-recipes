@@ -1,0 +1,35 @@
+body {
+  color: #ffd700;
+  background-color: black;
+}
+
+h1 {
+  font-family: "Brush Script MT", cursive;
+  font-weight: bold;
+  font-size: 36px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Brush Script MT", cursive;
+  font-weight: bold;
+  text-align: center;
+  font-size: 32px;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+p {
+  font-family: "Tahoma", sans-serif;
+  font-weight: bold;
+}
+
+li {
+  font-family: "Tahoma", sans-serif;
+  font-weight: 500;
+  color: white;
+}
